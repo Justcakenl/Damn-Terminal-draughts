@@ -274,4 +274,5 @@ DAMN was created as a test project using **cake-cli** to explore AI-assisted Rus
 
 ## License
 
-Add your preferred license before publishing this repository.
+DAMN is open source under the [MIT License](LICENSE). You may use, study, edit, copy, publish, and redistribute the project, including in commercial projects, provided that the copyright and license notice are preserved.
+
