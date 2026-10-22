@@ -64,7 +64,7 @@ rm -f "$HOME/.local/bin/damn"
 Install Rust from [rustup.rs](https://rustup.rs/), then:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/damn.git
+git clone https://github.com/Justcakenl/damn.git
 cd damn
 cargo build --release
 ```
@@ -95,7 +95,7 @@ Install:
 In PowerShell:
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/damn.git
+git clone https://github.com/Justcakenl/damn.git
 cd damn
 cargo run --release
 ```
@@ -123,7 +123,7 @@ xcode-select --install
 Install Rust from [rustup.rs](https://rustup.rs/), then:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/damn.git
+git clone https://github.com/Justcakenl/damn.git
 cd damn
 cargo install --path .
 damn
